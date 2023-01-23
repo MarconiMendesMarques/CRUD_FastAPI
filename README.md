@@ -1,5 +1,5 @@
 
-# fastAPI_CRUD 
+# CRUD_FastAPI 
 
 API destinada a criação, leitura, alteração e deleção
 em cadastro de usuários PostgreSql utilizando Python, fastAPI e Ormar.
