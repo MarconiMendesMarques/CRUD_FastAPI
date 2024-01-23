@@ -10,6 +10,7 @@ em cadastro de usuários PostgreSql utilizando Python, fastAPI e Ormar.
  - [FastAPI](https://fastapi.tiangolo.com)
  - [ORMAR](https://collerek.github.io/ormar/)
  - [PostgreSQL](https://www.postgresql.org/)
+ - [Python](https://www.python.org/) 
 
 
 ## Documentação da API
